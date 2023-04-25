@@ -23,7 +23,8 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: [
-      "https://vhandleuss.netlify.app",
+      
+      "https://vhandleproject.netlify.app/",
       "https://ussfrontendtest.vercel.app/",
     ],
     credentials: true,
