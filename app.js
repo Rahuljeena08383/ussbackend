@@ -25,7 +25,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://vhandle.netlify.app/",
-//       "https://vhandleproject.netlify.app/",
+      "https://vhandleproject.netlify.app/",
 //       "https://ussfrontendtest.vercel.app/",
     ],
     credentials: true,
