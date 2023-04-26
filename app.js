@@ -24,6 +24,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
+      "https://ussfrontendtest-s3iv.vercel.app/",
       "https://vhandle.netlify.app/",
 //       "https://vhandleproject.netlify.app/",
 //       "https://ussfrontendtest.vercel.app/",
