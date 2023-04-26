@@ -24,8 +24,8 @@ app.use(
   cors({
     origin: [
       "https://vhandleussproject.netlify.app/",
-      "https://vhandleproject.netlify.app/",
-      "https://ussfrontendtest.vercel.app/",
+//       "https://vhandleproject.netlify.app/",
+//       "https://ussfrontendtest.vercel.app/",
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
